@@ -1,0 +1,3 @@
+Laure,Guery,02076554616,150 Minories,London, UK, EC1, laureguery@hotmail.com, laureTW, laureFacebook
+David, Beckham,02076554616,150 Minories,London, UK, EC1, davidbeckham@hotmail.com, @dabidBeckhamweb, davidbeckhamfacebook
+Marie, Nehr,02076554616,150 Minories,London, UK, EC1, marienehr@hotmail.com, @marienehrweb, marienehrfacebook
